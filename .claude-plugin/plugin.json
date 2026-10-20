@@ -1,0 +1,12 @@
+{
+  "name": "companyforge",
+  "version": "1.0.0",
+  "description": "Generates domain-specific AI organizations with lean capability pools, three-pass review, ceremony-tiered composition, and domain context engines",
+  "author": {
+    "name": "Stacey Mollohan"
+  },
+  "homepage": "https://github.com/aboynamedstacey/CompanyForge",
+  "repository": "https://github.com/aboynamedstacey/companyforge-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["ai-organization", "multi-agent", "domain-generator", "three-pass-review", "ceremony-calibration"]
+}
